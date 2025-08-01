@@ -22,11 +22,11 @@
 char和varchar要打長度/值<p>
 主鍵之索引要加primary<p>
 按執行可以增加欄位<p>
-![GitHub Logo](/images/m5.JPG)
+![GitHub Logo](/images/m5.JPG)<p>
 方法一：在school資料庫按新增，可以增加資料表<p>
-![GitHub Logo](/images/m6.JPG)
+![GitHub Logo](/images/m6.JPG)<p>
 方法二：在school資料庫，輸入資料庫名稱和欄位數，可以增加資料表<p>
-![GitHub Logo](/images/m7.JPG)
+![GitHub Logo](/images/m7.JPG)<p>
 按結構會跳到下面的畫面<p>
 ![GitHub Logo](/images/m8.JPG)
 ![GitHub Logo](/images/m9.JPG)
@@ -38,9 +38,9 @@ char和varchar要打長度/值<p>
 ============================
 # 自動編號<p>
 類型：INT，勾AI<p>
-![GitHub Logo](/images/m13.JPG)
+![GitHub Logo](/images/m13.JPG)<p>
 會出現：AUTO_INCREMENT<p>
-![GitHub Logo](/images/m14.JPG)
+![GitHub Logo](/images/m14.JPG)<p>
 自動編碼就不用輸入值<p>
 ![GitHub Logo](/images/m15.JPG)
 ![GitHub Logo](/images/m16.JPG)
